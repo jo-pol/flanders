@@ -158,10 +158,10 @@ function ChangeImages (SelectList) {
 		var i;
 		for ( i=0 ; i < document.images.length ; i++ ) {
 			if (document.images[i].name.indexOf (ImageCode2) == 0) {
-				document.images[i].src = (ImageCode2 + "-" + KlosSlagCode + ".gif").toUpperCase();
+				document.images[i].src = "tiles/"+ (ImageCode2 + "-" + KlosSlagCode + ".gif").toUpperCase();
 			}
 			else if (document.images[i].name.indexOf (ImageCode1) == 0) {
-				document.images[i].src = (ImageCode1 + "-" + KlosSlagCode + ".gif").toUpperCase();
+				document.images[i].src = "tiles/"+ (ImageCode1 + "-" + KlosSlagCode + ".gif").toUpperCase();
 			}
 		}
 	}
