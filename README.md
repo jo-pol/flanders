@@ -6,7 +6,7 @@ The main page explains how the JavaScript triggered by the web form uses tiled i
 Various detours an freshly started projects since these old days
 gave birth to the still evolving [GroundForge] supporting limitless types of grounds and stitches.
 
-[GroundForge]: https://d-bl.github.io/GroundForge/help/
+[GroundForge]: https://d-bl.github.io/GroundForge/
 
 Sorry about the Dutch variable names in the JavaScript and some of the filenames.
 The original pages used to be multilingual with Dutch as primary audience.
